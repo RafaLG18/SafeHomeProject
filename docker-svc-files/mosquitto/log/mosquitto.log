@@ -457,3 +457,4 @@
 1743886159: New client connected from 192.168.1.27:54252 as ESP32-4C11AE6667B4 (p2, c1, k15, u'safehmoe').
 1743886991: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1743888792: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743889812: Client JavaSubscriber closed its connection.
