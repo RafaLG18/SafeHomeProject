@@ -1,0 +1,57 @@
+version: '3'
+
+services:
+  mosquitto:
+    image: eclipse-mosquitto:latest
+    container_name: mosquitto
+    restart: unless-stopped
+    ports:
+      - "1883:1883"      # MQTT padrão
+      - "9001:9001"      # Websocket (opcional)
+    volumes:
+      - ./mosquitto/config:/mosquitto/config
+      - ./mosquitto/data:/mosquitto/data
+      - ./mosquitto/log:/mosquitto/log
+    networks:
+      - mosquitto
+  influxdb:
+    image: influxdb:2.7
+    container_name: influxdb
+    restart: unless-stopped
+    ports:
+      - "8086:8086"
+    volumes:
+      - ./influxdb/data:/var/lib/influxdb2
+    environment:
+      - DOCKER_INFLUXDB_INIT_MODE=setup
+      - DOCKER_INFLUXDB_INIT_USERNAME=admin
+      - DOCKER_INFLUXDB_INIT_PASSWORD=senhaadmin
+      - DOCKER_INFLUXDB_INIT_ORG=safehome
+      - DOCKER_INFLUXDB_INIT_BUCKET=safehome-bucket
+      - DOCKER_INFLUXDB_INIT_ADMIN_TOKEN=token-safeHome#
+    networks:
+      - mosquitto
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    user: "472:472"
+    restart: unless-stopped
+    ports:
+      - "3000:3000"  # UI do Grafana
+    environment:
+      GF_SECURITY_ADMIN_USER: admin
+      GF_SECURITY_ADMIN_PASSWORD: minhasenhasegura
+      GF_USERS_DEFAULT_THEME: dark
+    volumes:
+      - ./grafana/data:/var/lib/grafana 
+      - ./grafana/provisioning:/etc/grafana/provisioning
+    networks:
+      - mosquitto
+networks:
+  mosquitto:
+    ipam:
+      driver: default
+      config:
+        - subnet: 172.18.0.0/16
+          ip_range: 172.18.0.0/24
+          gateway: 172.18.0.1

@@ -1,0 +1,459 @@
+1743809090: mosquitto version 2.0.21 starting
+1743809090: Config loaded from /mosquitto/config/mosquitto.conf.
+1743809090: Opening ipv4 listen socket on port 1883.
+1743809090: Opening ipv6 listen socket on port 1883.
+1743809090: mosquitto version 2.0.21 running
+1743809134: New connection from 172.23.0.1:37042 on port 1883.
+1743809134: Client auto-88741294-68AF-FDAA-76A1-3CE6AD6114C8 disconnected, not authorised.
+1743809139: New connection from 172.23.0.1:57044 on port 1883.
+1743809139: Client auto-2151B637-29FD-32FE-4608-F9D3DC474B93 disconnected, not authorised.
+1743809345: New connection from 172.23.0.1:40758 on port 1883.
+1743809345: Client auto-89790333-0275-1464-C1C4-EBEC413525D9 disconnected, not authorised.
+1743809409: New connection from 172.23.0.1:52626 on port 1883.
+1743809409: New client connected from 172.23.0.1:52626 as auto-0DF49530-D2E4-CBA9-9074-9FD9D801D1CB (p2, c1, k60, u'safehmoe').
+1743809409: Client auto-0DF49530-D2E4-CBA9-9074-9FD9D801D1CB disconnected.
+1743810891: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743812692: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743812840: New connection from 172.23.0.1:39224 on port 1883.
+1743812840: New client connected from 172.23.0.1:39224 as mqtt-explorer-e79b0faf (p2, c1, k60, u'safehmoe').
+1743812994: Client mqtt-explorer-e79b0faf disconnected.
+1743813064: New connection from 172.23.0.1:55472 on port 1883.
+1743813064: New client connected from 172.23.0.1:55472 as mqtt-explorer-e79b0faf (p2, c1, k60, u'safehmoe').
+1743814493: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743814716: New connection from 172.23.0.1:53594 on port 1883.
+1743814716: New client connected from 172.23.0.1:53594 as JavaSubscriber (p2, c1, k60, u'safehmoe').
+1743814781: New connection from 172.23.0.1:52532 on port 1883.
+1743814781: Client auto-CDBDDE9C-AA10-3BA7-834F-841BDCAE790C disconnected, not authorised.
+1743815186: Client JavaSubscriber closed its connection.
+1743816294: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743818095: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743819896: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743820219: mosquitto version 2.0.21 terminating
+1743820219: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743821696: mosquitto version 2.0.21 starting
+1743821696: Config loaded from /mosquitto/config/mosquitto.conf.
+1743821696: Opening ipv4 listen socket on port 1883.
+1743821696: Opening ipv6 listen socket on port 1883.
+1743821696: mosquitto version 2.0.21 running
+1743821836: mosquitto version 2.0.21 terminating
+1743821836: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743821836: mosquitto version 2.0.21 starting
+1743821836: Config loaded from /mosquitto/config/mosquitto.conf.
+1743821836: Opening ipv4 listen socket on port 1883.
+1743821836: Opening ipv6 listen socket on port 1883.
+1743821836: mosquitto version 2.0.21 running
+1743823637: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743824599: New connection from 172.18.0.1:45856 on port 1883.
+1743824599: New client connected from 172.18.0.1:45856 as JavaSubscriber (p2, c1, k60, u'safehmoe').
+1743824663: New connection from 172.18.0.1:39418 on port 1883.
+1743824663: New client connected from 172.18.0.1:39418 as auto-F9CC901C-B74E-E5D6-C15A-AA3220DC5A05 (p2, c1, k60, u'safehmoe').
+1743824663: Client auto-F9CC901C-B74E-E5D6-C15A-AA3220DC5A05 disconnected.
+1743824785: New connection from 172.18.0.1:39574 on port 1883.
+1743824785: New client connected from 172.18.0.1:39574 as mqtt-explorer-e79b0faf (p2, c1, k60, u'safehmoe').
+1743824803: Client JavaSubscriber closed its connection.
+1743824810: New connection from 172.18.0.1:50674 on port 1883.
+1743824810: New client connected from 172.18.0.1:50674 as JavaSubscriber (p2, c1, k60, u'safehmoe').
+1743825438: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743826482: Client mqtt-explorer-e79b0faf disconnected.
+1743826490: Client JavaSubscriber closed its connection.
+1743826496: mosquitto version 2.0.21 terminating
+1743826496: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743867180: mosquitto version 2.0.21 starting
+1743867180: Config loaded from /mosquitto/config/mosquitto.conf.
+1743867180: Opening ipv4 listen socket on port 1883.
+1743867180: Opening ipv6 listen socket on port 1883.
+1743867180: mosquitto version 2.0.21 running
+1743867741: New connection from 172.18.0.1:44252 on port 1883.
+1743867741: New client connected from 172.18.0.1:44252 as auto-C0D85C73-CEAC-53BD-9B29-9EA8AF08F6BA (p2, c1, k60, u'safehmoe').
+1743867741: Client auto-C0D85C73-CEAC-53BD-9B29-9EA8AF08F6BA disconnected.
+1743867837: New connection from 172.18.0.1:45272 on port 1883.
+1743867837: New client connected from 172.18.0.1:45272 as auto-284511D2-6B03-A858-A849-AB53F2EC0333 (p2, c1, k60, u'safehmoe').
+1743867837: Client auto-284511D2-6B03-A858-A849-AB53F2EC0333 disconnected.
+1743867838: New connection from 172.18.0.1:45276 on port 1883.
+1743867838: New client connected from 172.18.0.1:45276 as auto-AF461D52-4681-44F8-5410-00582B1B1C1B (p2, c1, k60, u'safehmoe').
+1743867838: Client auto-AF461D52-4681-44F8-5410-00582B1B1C1B disconnected.
+1743867838: New connection from 172.18.0.1:45280 on port 1883.
+1743867838: New client connected from 172.18.0.1:45280 as auto-05441145-2020-EDC3-E592-F3EA2D5F7C67 (p2, c1, k60, u'safehmoe').
+1743867838: Client auto-05441145-2020-EDC3-E592-F3EA2D5F7C67 disconnected.
+1743867838: New connection from 172.18.0.1:45294 on port 1883.
+1743867838: New client connected from 172.18.0.1:45294 as auto-CC0C1DA1-A70C-FC7A-F8E8-BE36AB00512B (p2, c1, k60, u'safehmoe').
+1743867838: Client auto-CC0C1DA1-A70C-FC7A-F8E8-BE36AB00512B disconnected.
+1743867838: New connection from 172.18.0.1:45296 on port 1883.
+1743867838: New client connected from 172.18.0.1:45296 as auto-D89007EF-0252-9B67-ABEF-97D722C024A4 (p2, c1, k60, u'safehmoe').
+1743867838: Client auto-D89007EF-0252-9B67-ABEF-97D722C024A4 disconnected.
+1743867839: New connection from 172.18.0.1:45302 on port 1883.
+1743867839: New client connected from 172.18.0.1:45302 as auto-6C13C10F-EDE4-8E7E-0494-8B658114633A (p2, c1, k60, u'safehmoe').
+1743867839: Client auto-6C13C10F-EDE4-8E7E-0494-8B658114633A disconnected.
+1743867839: New connection from 172.18.0.1:45314 on port 1883.
+1743867839: New client connected from 172.18.0.1:45314 as auto-FA94C2BF-87AA-6D84-FB66-77813623B680 (p2, c1, k60, u'safehmoe').
+1743867839: Client auto-FA94C2BF-87AA-6D84-FB66-77813623B680 disconnected.
+1743867839: New connection from 172.18.0.1:45318 on port 1883.
+1743867839: New client connected from 172.18.0.1:45318 as auto-03A98B8C-EBB3-F06D-602B-4D2B0368CF29 (p2, c1, k60, u'safehmoe').
+1743867839: Client auto-03A98B8C-EBB3-F06D-602B-4D2B0368CF29 disconnected.
+1743867839: New connection from 172.18.0.1:45322 on port 1883.
+1743867839: New client connected from 172.18.0.1:45322 as auto-098EB27D-FB2C-63FC-C706-B1622138DA13 (p2, c1, k60, u'safehmoe').
+1743867839: Client auto-098EB27D-FB2C-63FC-C706-B1622138DA13 disconnected.
+1743867840: New connection from 172.18.0.1:45334 on port 1883.
+1743867840: New client connected from 172.18.0.1:45334 as auto-622C6E45-F247-0E66-36B2-9290BE4899A1 (p2, c1, k60, u'safehmoe').
+1743867840: Client auto-622C6E45-F247-0E66-36B2-9290BE4899A1 disconnected.
+1743867840: New connection from 172.18.0.1:45340 on port 1883.
+1743867840: New client connected from 172.18.0.1:45340 as auto-C512D796-DC05-33CF-9D5A-5BE51D6B8B26 (p2, c1, k60, u'safehmoe').
+1743867840: Client auto-C512D796-DC05-33CF-9D5A-5BE51D6B8B26 disconnected.
+1743867840: New connection from 172.18.0.1:45342 on port 1883.
+1743867840: New client connected from 172.18.0.1:45342 as auto-9287CA88-16E0-5EE0-3479-E037E6E4322F (p2, c1, k60, u'safehmoe').
+1743867840: Client auto-9287CA88-16E0-5EE0-3479-E037E6E4322F disconnected.
+1743867840: New connection from 172.18.0.1:45354 on port 1883.
+1743867840: New client connected from 172.18.0.1:45354 as auto-6E6E6A6A-EE74-3201-D222-24B75627C387 (p2, c1, k60, u'safehmoe').
+1743867840: Client auto-6E6E6A6A-EE74-3201-D222-24B75627C387 disconnected.
+1743867953: New connection from 172.18.0.1:54076 on port 1883.
+1743867953: New client connected from 172.18.0.1:54076 as auto-44A28315-0D30-36B5-38CF-F9A50BCC1D8B (p2, c1, k60, u'safehmoe').
+1743867953: Client auto-44A28315-0D30-36B5-38CF-F9A50BCC1D8B disconnected.
+1743867954: New connection from 172.18.0.1:54088 on port 1883.
+1743867954: New client connected from 172.18.0.1:54088 as auto-009ACF80-2F00-CCF2-C8E0-8D9BDE820278 (p2, c1, k60, u'safehmoe').
+1743867954: Client auto-009ACF80-2F00-CCF2-C8E0-8D9BDE820278 disconnected.
+1743867954: New connection from 172.18.0.1:54102 on port 1883.
+1743867954: New client connected from 172.18.0.1:54102 as auto-80C6CF73-ABD1-9B9C-E093-F160B011A41E (p2, c1, k60, u'safehmoe').
+1743867954: Client auto-80C6CF73-ABD1-9B9C-E093-F160B011A41E disconnected.
+1743867955: New connection from 172.18.0.1:54104 on port 1883.
+1743867955: New client connected from 172.18.0.1:54104 as auto-CDDFF165-B9F8-23EF-C105-1B00FCC90BB6 (p2, c1, k60, u'safehmoe').
+1743867955: Client auto-CDDFF165-B9F8-23EF-C105-1B00FCC90BB6 disconnected.
+1743867955: New connection from 172.18.0.1:54114 on port 1883.
+1743867955: New client connected from 172.18.0.1:54114 as auto-2640815D-2910-D682-A95E-DD94745E07E2 (p2, c1, k60, u'safehmoe').
+1743867955: Client auto-2640815D-2910-D682-A95E-DD94745E07E2 disconnected.
+1743867955: New connection from 172.18.0.1:54120 on port 1883.
+1743867955: New client connected from 172.18.0.1:54120 as auto-EB37B86F-7EEF-693B-2FDD-A613E06A427B (p2, c1, k60, u'safehmoe').
+1743867955: Client auto-EB37B86F-7EEF-693B-2FDD-A613E06A427B disconnected.
+1743867955: New connection from 172.18.0.1:54130 on port 1883.
+1743867955: New client connected from 172.18.0.1:54130 as auto-B271CD53-FE44-1CEC-1F5D-5DE5F62F9608 (p2, c1, k60, u'safehmoe').
+1743867955: Client auto-B271CD53-FE44-1CEC-1F5D-5DE5F62F9608 disconnected.
+1743867956: New connection from 172.18.0.1:54132 on port 1883.
+1743867956: New client connected from 172.18.0.1:54132 as auto-BD80C65E-290C-ED36-185E-7D670B8F0CA3 (p2, c1, k60, u'safehmoe').
+1743867956: Client auto-BD80C65E-290C-ED36-185E-7D670B8F0CA3 disconnected.
+1743867956: New connection from 172.18.0.1:54144 on port 1883.
+1743867956: New client connected from 172.18.0.1:54144 as auto-064A3B0E-A5E8-9D12-D85A-D70435D003EC (p2, c1, k60, u'safehmoe').
+1743867956: Client auto-064A3B0E-A5E8-9D12-D85A-D70435D003EC disconnected.
+1743867956: New connection from 172.18.0.1:57602 on port 1883.
+1743867956: New client connected from 172.18.0.1:57602 as auto-2A58697A-A2AC-BEAC-465B-C8B61F9D7A3B (p2, c1, k60, u'safehmoe').
+1743867956: Client auto-2A58697A-A2AC-BEAC-465B-C8B61F9D7A3B disconnected.
+1743867956: New connection from 172.18.0.1:57614 on port 1883.
+1743867956: New client connected from 172.18.0.1:57614 as auto-B2A2D367-B135-9A64-3A0A-0EED6C0FB390 (p2, c1, k60, u'safehmoe').
+1743867956: Client auto-B2A2D367-B135-9A64-3A0A-0EED6C0FB390 disconnected.
+1743867957: New connection from 172.18.0.1:57616 on port 1883.
+1743867957: New client connected from 172.18.0.1:57616 as auto-5324498A-6280-3B3E-D96B-D8A3D5BB5763 (p2, c1, k60, u'safehmoe').
+1743867957: Client auto-5324498A-6280-3B3E-D96B-D8A3D5BB5763 disconnected.
+1743867957: New connection from 172.18.0.1:57630 on port 1883.
+1743867957: New client connected from 172.18.0.1:57630 as auto-C91C8957-4F67-CC39-9332-D26AC223225F (p2, c1, k60, u'safehmoe').
+1743867957: Client auto-C91C8957-4F67-CC39-9332-D26AC223225F disconnected.
+1743867957: New connection from 172.18.0.1:57634 on port 1883.
+1743867957: New client connected from 172.18.0.1:57634 as auto-18E4B992-0DD1-087A-DEF4-BD430D6C5D26 (p2, c1, k60, u'safehmoe').
+1743867957: Client auto-18E4B992-0DD1-087A-DEF4-BD430D6C5D26 disconnected.
+1743867957: New connection from 172.18.0.1:57646 on port 1883.
+1743867957: New client connected from 172.18.0.1:57646 as auto-426D858E-C834-0C05-802B-143D6DEEE2D3 (p2, c1, k60, u'safehmoe').
+1743867957: Client auto-426D858E-C834-0C05-802B-143D6DEEE2D3 disconnected.
+1743867957: New connection from 172.18.0.1:57658 on port 1883.
+1743867957: New client connected from 172.18.0.1:57658 as auto-0EEB3F79-A0DA-72D8-139D-F3E5A7337BD6 (p2, c1, k60, u'safehmoe').
+1743867957: Client auto-0EEB3F79-A0DA-72D8-139D-F3E5A7337BD6 disconnected.
+1743867958: New connection from 172.18.0.1:57662 on port 1883.
+1743867958: New client connected from 172.18.0.1:57662 as auto-2BB5CBD9-5D69-FA71-9688-024D54A9DB11 (p2, c1, k60, u'safehmoe').
+1743867958: Client auto-2BB5CBD9-5D69-FA71-9688-024D54A9DB11 disconnected.
+1743867958: New connection from 172.18.0.1:57676 on port 1883.
+1743867958: New client connected from 172.18.0.1:57676 as auto-EFB20998-DED8-B57C-7118-F6EAE3B42F50 (p2, c1, k60, u'safehmoe').
+1743867958: Client auto-EFB20998-DED8-B57C-7118-F6EAE3B42F50 disconnected.
+1743867958: New connection from 172.18.0.1:57692 on port 1883.
+1743867958: New client connected from 172.18.0.1:57692 as auto-E53073F1-2C0D-1E4A-8CAB-BD523B81B29B (p2, c1, k60, u'safehmoe').
+1743867958: Client auto-E53073F1-2C0D-1E4A-8CAB-BD523B81B29B disconnected.
+1743867958: New connection from 172.18.0.1:57694 on port 1883.
+1743867958: New client connected from 172.18.0.1:57694 as auto-E83FB5A2-8D41-77A1-A978-79F8981592E6 (p2, c1, k60, u'safehmoe').
+1743867958: Client auto-E83FB5A2-8D41-77A1-A978-79F8981592E6 disconnected.
+1743867958: New connection from 172.18.0.1:57706 on port 1883.
+1743867958: New client connected from 172.18.0.1:57706 as auto-7177BF27-D321-0B27-658D-BDD031D5E84C (p2, c1, k60, u'safehmoe').
+1743867958: Client auto-7177BF27-D321-0B27-658D-BDD031D5E84C disconnected.
+1743867959: New connection from 172.18.0.1:57716 on port 1883.
+1743867959: New client connected from 172.18.0.1:57716 as auto-59428D83-B895-3477-2D4C-8B4876DEAF50 (p2, c1, k60, u'safehmoe').
+1743867959: Client auto-59428D83-B895-3477-2D4C-8B4876DEAF50 disconnected.
+1743867959: New connection from 172.18.0.1:57722 on port 1883.
+1743867959: New client connected from 172.18.0.1:57722 as auto-DFB98079-8975-9544-592C-77E4B854CF1F (p2, c1, k60, u'safehmoe').
+1743867959: Client auto-DFB98079-8975-9544-592C-77E4B854CF1F disconnected.
+1743867959: New connection from 172.18.0.1:57734 on port 1883.
+1743867959: New client connected from 172.18.0.1:57734 as auto-243DE6D2-0754-BC10-7543-DBF9618BCF82 (p2, c1, k60, u'safehmoe').
+1743867959: Client auto-243DE6D2-0754-BC10-7543-DBF9618BCF82 disconnected.
+1743867959: New connection from 172.18.0.1:57744 on port 1883.
+1743867959: New client connected from 172.18.0.1:57744 as auto-8BA02B0E-E124-CDB4-D19B-FB29A2818134 (p2, c1, k60, u'safehmoe').
+1743867959: Client auto-8BA02B0E-E124-CDB4-D19B-FB29A2818134 disconnected.
+1743867960: New connection from 172.18.0.1:57758 on port 1883.
+1743867960: New client connected from 172.18.0.1:57758 as auto-FFA0BB41-B7B1-52B2-7F75-1A3F5DF4A46B (p2, c1, k60, u'safehmoe').
+1743867960: Client auto-FFA0BB41-B7B1-52B2-7F75-1A3F5DF4A46B disconnected.
+1743867960: New connection from 172.18.0.1:57764 on port 1883.
+1743867960: New client connected from 172.18.0.1:57764 as auto-6ED15BE2-BF79-A3E7-0201-7307E87D0730 (p2, c1, k60, u'safehmoe').
+1743867960: Client auto-6ED15BE2-BF79-A3E7-0201-7307E87D0730 disconnected.
+1743867960: New connection from 172.18.0.1:57774 on port 1883.
+1743867960: New client connected from 172.18.0.1:57774 as auto-5AA37204-D093-C72F-FE63-B06C66905ED6 (p2, c1, k60, u'safehmoe').
+1743867960: Client auto-5AA37204-D093-C72F-FE63-B06C66905ED6 disconnected.
+1743867960: New connection from 172.18.0.1:57776 on port 1883.
+1743867960: New client connected from 172.18.0.1:57776 as auto-71C820F6-94D0-269F-5561-A20194935BB5 (p2, c1, k60, u'safehmoe').
+1743867960: Client auto-71C820F6-94D0-269F-5561-A20194935BB5 disconnected.
+1743867960: New connection from 172.18.0.1:57782 on port 1883.
+1743867960: New client connected from 172.18.0.1:57782 as auto-0651A795-3B6C-0F8E-84C8-98B95853A8FC (p2, c1, k60, u'safehmoe').
+1743867960: Client auto-0651A795-3B6C-0F8E-84C8-98B95853A8FC disconnected.
+1743868095: New connection from 172.18.0.1:56550 on port 1883.
+1743868096: New client connected from 172.18.0.1:56550 as JavaSubscriber (p2, c1, k60, u'safehmoe').
+1743868101: New connection from 172.18.0.1:41102 on port 1883.
+1743868101: New client connected from 172.18.0.1:41102 as auto-A7F01561-5B6A-8542-38B4-B4557CE5CAC9 (p2, c1, k60, u'safehmoe').
+1743868101: Client auto-A7F01561-5B6A-8542-38B4-B4557CE5CAC9 disconnected.
+1743868102: New connection from 172.18.0.1:41110 on port 1883.
+1743868102: New client connected from 172.18.0.1:41110 as auto-54AFB133-86BF-C580-A3D1-9A0D6D4A921F (p2, c1, k60, u'safehmoe').
+1743868102: Client auto-54AFB133-86BF-C580-A3D1-9A0D6D4A921F disconnected.
+1743868103: New connection from 172.18.0.1:41118 on port 1883.
+1743868103: New client connected from 172.18.0.1:41118 as auto-E7BA0071-F7B4-EE84-3695-C1F81511539C (p2, c1, k60, u'safehmoe').
+1743868103: Client auto-E7BA0071-F7B4-EE84-3695-C1F81511539C disconnected.
+1743868103: New connection from 172.18.0.1:41120 on port 1883.
+1743868103: New client connected from 172.18.0.1:41120 as auto-94AF5D59-B5AA-2829-8766-2A54C5DF21BC (p2, c1, k60, u'safehmoe').
+1743868103: Client auto-94AF5D59-B5AA-2829-8766-2A54C5DF21BC disconnected.
+1743868103: New connection from 172.18.0.1:41122 on port 1883.
+1743868103: New client connected from 172.18.0.1:41122 as auto-888260CD-8628-29FD-2BFC-2FED9BF46D8E (p2, c1, k60, u'safehmoe').
+1743868103: Client auto-888260CD-8628-29FD-2BFC-2FED9BF46D8E disconnected.
+1743868104: New connection from 172.18.0.1:41132 on port 1883.
+1743868104: New client connected from 172.18.0.1:41132 as auto-DE781206-70A6-DD31-DD95-DB10A50735A6 (p2, c1, k60, u'safehmoe').
+1743868104: Client auto-DE781206-70A6-DD31-DD95-DB10A50735A6 disconnected.
+1743868104: New connection from 172.18.0.1:41136 on port 1883.
+1743868104: New client connected from 172.18.0.1:41136 as auto-68B8245F-6D0E-2582-54E8-FEBA08336A31 (p2, c1, k60, u'safehmoe').
+1743868104: Client auto-68B8245F-6D0E-2582-54E8-FEBA08336A31 disconnected.
+1743868104: New connection from 172.18.0.1:41146 on port 1883.
+1743868104: New client connected from 172.18.0.1:41146 as auto-E39462BC-D6C6-167C-BB69-3A9A691A8817 (p2, c1, k60, u'safehmoe').
+1743868104: Client auto-E39462BC-D6C6-167C-BB69-3A9A691A8817 disconnected.
+1743868104: New connection from 172.18.0.1:41160 on port 1883.
+1743868104: New client connected from 172.18.0.1:41160 as auto-DC68D4B9-018C-D81E-796B-67881A86E63E (p2, c1, k60, u'safehmoe').
+1743868104: Client auto-DC68D4B9-018C-D81E-796B-67881A86E63E disconnected.
+1743868104: New connection from 172.18.0.1:41176 on port 1883.
+1743868104: New client connected from 172.18.0.1:41176 as auto-87A8AC4C-D0B9-03AD-D1E1-FBD622C80D89 (p2, c1, k60, u'safehmoe').
+1743868104: Client auto-87A8AC4C-D0B9-03AD-D1E1-FBD622C80D89 disconnected.
+1743868105: New connection from 172.18.0.1:41182 on port 1883.
+1743868105: New client connected from 172.18.0.1:41182 as auto-58A1B9F5-D6C7-3ABC-6EBF-DFB41C9A390A (p2, c1, k60, u'safehmoe').
+1743868105: Client auto-58A1B9F5-D6C7-3ABC-6EBF-DFB41C9A390A disconnected.
+1743868105: New connection from 172.18.0.1:41198 on port 1883.
+1743868105: New client connected from 172.18.0.1:41198 as auto-FCBF5B9D-59F2-2C5F-D118-28C09239528A (p2, c1, k60, u'safehmoe').
+1743868105: Client auto-FCBF5B9D-59F2-2C5F-D118-28C09239528A disconnected.
+1743868105: New connection from 172.18.0.1:41206 on port 1883.
+1743868105: New client connected from 172.18.0.1:41206 as auto-F8275D13-68BD-2B8A-DC0F-CAA87E2A5D40 (p2, c1, k60, u'safehmoe').
+1743868105: Client auto-F8275D13-68BD-2B8A-DC0F-CAA87E2A5D40 disconnected.
+1743868105: New connection from 172.18.0.1:41220 on port 1883.
+1743868105: New client connected from 172.18.0.1:41220 as auto-D69B700F-8B73-570E-0BF2-62F9ABB11739 (p2, c1, k60, u'safehmoe').
+1743868105: Client auto-D69B700F-8B73-570E-0BF2-62F9ABB11739 disconnected.
+1743868105: New connection from 172.18.0.1:41224 on port 1883.
+1743868105: New client connected from 172.18.0.1:41224 as auto-170E8493-EFC2-A65F-EBC6-1442A63A6763 (p2, c1, k60, u'safehmoe').
+1743868105: Client auto-170E8493-EFC2-A65F-EBC6-1442A63A6763 disconnected.
+1743868106: New connection from 172.18.0.1:41240 on port 1883.
+1743868106: New client connected from 172.18.0.1:41240 as auto-33EB0A37-76BB-239E-55CD-CC8BFB1D71CD (p2, c1, k60, u'safehmoe').
+1743868106: Client auto-33EB0A37-76BB-239E-55CD-CC8BFB1D71CD disconnected.
+1743868106: New connection from 172.18.0.1:41244 on port 1883.
+1743868106: New client connected from 172.18.0.1:41244 as auto-BAE679C3-FEC9-3BC7-E81E-00677B22639F (p2, c1, k60, u'safehmoe').
+1743868106: Client auto-BAE679C3-FEC9-3BC7-E81E-00677B22639F disconnected.
+1743868106: New connection from 172.18.0.1:34924 on port 1883.
+1743868106: New client connected from 172.18.0.1:34924 as auto-178E2CF2-8118-71B8-52AF-1C68B8631FC1 (p2, c1, k60, u'safehmoe').
+1743868106: Client auto-178E2CF2-8118-71B8-52AF-1C68B8631FC1 disconnected.
+1743868106: New connection from 172.18.0.1:34936 on port 1883.
+1743868106: New client connected from 172.18.0.1:34936 as auto-5D998187-280D-782B-A25A-8D5EE46FC615 (p2, c1, k60, u'safehmoe').
+1743868106: Client auto-5D998187-280D-782B-A25A-8D5EE46FC615 disconnected.
+1743868106: New connection from 172.18.0.1:34952 on port 1883.
+1743868106: New client connected from 172.18.0.1:34952 as auto-6AB8360A-EEB9-2617-E3E9-5225B14BBC47 (p2, c1, k60, u'safehmoe').
+1743868106: Client auto-6AB8360A-EEB9-2617-E3E9-5225B14BBC47 disconnected.
+1743868107: New connection from 172.18.0.1:34964 on port 1883.
+1743868107: New client connected from 172.18.0.1:34964 as auto-F32A35B2-5BAA-4C08-4073-634E16E8B124 (p2, c1, k60, u'safehmoe').
+1743868107: Client auto-F32A35B2-5BAA-4C08-4073-634E16E8B124 disconnected.
+1743868107: New connection from 172.18.0.1:34974 on port 1883.
+1743868107: New client connected from 172.18.0.1:34974 as auto-A6F7EE2A-0E26-62B4-023C-DC58B9F901F8 (p2, c1, k60, u'safehmoe').
+1743868107: Client auto-A6F7EE2A-0E26-62B4-023C-DC58B9F901F8 disconnected.
+1743868107: New connection from 172.18.0.1:34986 on port 1883.
+1743868107: New client connected from 172.18.0.1:34986 as auto-E4E93377-BEE0-3C14-A2B9-64758BEB75E9 (p2, c1, k60, u'safehmoe').
+1743868107: Client auto-E4E93377-BEE0-3C14-A2B9-64758BEB75E9 disconnected.
+1743868107: New connection from 172.18.0.1:34998 on port 1883.
+1743868107: New client connected from 172.18.0.1:34998 as auto-3C920742-37D0-0B05-225F-B2AF828E8CE2 (p2, c1, k60, u'safehmoe').
+1743868107: Client auto-3C920742-37D0-0B05-225F-B2AF828E8CE2 disconnected.
+1743868107: New connection from 172.18.0.1:35000 on port 1883.
+1743868107: New client connected from 172.18.0.1:35000 as auto-E4F01D25-54AE-630D-6707-5B6D50D0C934 (p2, c1, k60, u'safehmoe').
+1743868107: Client auto-E4F01D25-54AE-630D-6707-5B6D50D0C934 disconnected.
+1743868108: New connection from 172.18.0.1:35014 on port 1883.
+1743868108: New client connected from 172.18.0.1:35014 as auto-A3EFC27B-DE7A-8D09-4009-887D36E7900A (p2, c1, k60, u'safehmoe').
+1743868108: Client auto-A3EFC27B-DE7A-8D09-4009-887D36E7900A disconnected.
+1743868108: New connection from 172.18.0.1:35018 on port 1883.
+1743868108: New client connected from 172.18.0.1:35018 as auto-6527A9CC-6631-D3BB-6CDE-5C1031530C5B (p2, c1, k60, u'safehmoe').
+1743868108: Client auto-6527A9CC-6631-D3BB-6CDE-5C1031530C5B disconnected.
+1743868108: New connection from 172.18.0.1:35022 on port 1883.
+1743868108: New client connected from 172.18.0.1:35022 as auto-127A25ED-2955-38A1-6F30-280C973B3E3B (p2, c1, k60, u'safehmoe').
+1743868108: Client auto-127A25ED-2955-38A1-6F30-280C973B3E3B disconnected.
+1743868108: New connection from 172.18.0.1:35036 on port 1883.
+1743868108: New client connected from 172.18.0.1:35036 as auto-9C8769EE-2B45-A53E-7A42-03A828373634 (p2, c1, k60, u'safehmoe').
+1743868108: Client auto-9C8769EE-2B45-A53E-7A42-03A828373634 disconnected.
+1743868108: New connection from 172.18.0.1:35038 on port 1883.
+1743868108: New client connected from 172.18.0.1:35038 as auto-02E064AA-BC85-65A1-F64E-01607B9A5E08 (p2, c1, k60, u'safehmoe').
+1743868108: Client auto-02E064AA-BC85-65A1-F64E-01607B9A5E08 disconnected.
+1743868109: New connection from 172.18.0.1:35042 on port 1883.
+1743868109: New client connected from 172.18.0.1:35042 as auto-948E5474-138E-169F-2625-CF4B3AD9E8F5 (p2, c1, k60, u'safehmoe').
+1743868109: Client auto-948E5474-138E-169F-2625-CF4B3AD9E8F5 disconnected.
+1743868109: New connection from 172.18.0.1:35052 on port 1883.
+1743868109: New client connected from 172.18.0.1:35052 as auto-77147F3F-010D-0187-CDAF-1A9261E40369 (p2, c1, k60, u'safehmoe').
+1743868109: Client auto-77147F3F-010D-0187-CDAF-1A9261E40369 disconnected.
+1743868109: New connection from 172.18.0.1:35060 on port 1883.
+1743868109: New client connected from 172.18.0.1:35060 as auto-62FF49C8-31EA-E88E-3552-89F97568E866 (p2, c1, k60, u'safehmoe').
+1743868109: Client auto-62FF49C8-31EA-E88E-3552-89F97568E866 disconnected.
+1743868109: New connection from 172.18.0.1:35064 on port 1883.
+1743868109: New client connected from 172.18.0.1:35064 as auto-8FA880A8-B2E3-374C-BE70-DF743B319A84 (p2, c1, k60, u'safehmoe').
+1743868109: Client auto-8FA880A8-B2E3-374C-BE70-DF743B319A84 disconnected.
+1743868109: New connection from 172.18.0.1:35072 on port 1883.
+1743868109: New client connected from 172.18.0.1:35072 as auto-0557D6B7-17B4-1558-D49C-8D39B5E9CDF5 (p2, c1, k60, u'safehmoe').
+1743868109: Client auto-0557D6B7-17B4-1558-D49C-8D39B5E9CDF5 disconnected.
+1743868109: New connection from 172.18.0.1:35084 on port 1883.
+1743868109: New client connected from 172.18.0.1:35084 as auto-B23D2131-766E-5E86-2FF8-6C58E3B3017E (p2, c1, k60, u'safehmoe').
+1743868109: Client auto-B23D2131-766E-5E86-2FF8-6C58E3B3017E disconnected.
+1743868110: New connection from 172.18.0.1:35092 on port 1883.
+1743868110: New client connected from 172.18.0.1:35092 as auto-533C0A5C-6AD6-0F21-9701-F5BA5A6AEB5B (p2, c1, k60, u'safehmoe').
+1743868110: Client auto-533C0A5C-6AD6-0F21-9701-F5BA5A6AEB5B disconnected.
+1743868110: New connection from 172.18.0.1:35106 on port 1883.
+1743868110: New client connected from 172.18.0.1:35106 as auto-9CC7029C-4970-0258-7E87-BAC25B2AE77E (p2, c1, k60, u'safehmoe').
+1743868110: Client auto-9CC7029C-4970-0258-7E87-BAC25B2AE77E disconnected.
+1743868110: New connection from 172.18.0.1:35122 on port 1883.
+1743868110: New client connected from 172.18.0.1:35122 as auto-28B409AA-BE5A-8584-5460-2A581E93C203 (p2, c1, k60, u'safehmoe').
+1743868110: Client auto-28B409AA-BE5A-8584-5460-2A581E93C203 disconnected.
+1743868110: New connection from 172.18.0.1:35134 on port 1883.
+1743868110: New client connected from 172.18.0.1:35134 as auto-DB938C42-6E52-FE1A-BD15-719FDC3BCC24 (p2, c1, k60, u'safehmoe').
+1743868110: Client auto-DB938C42-6E52-FE1A-BD15-719FDC3BCC24 disconnected.
+1743868110: New connection from 172.18.0.1:35146 on port 1883.
+1743868110: New client connected from 172.18.0.1:35146 as auto-1A279A65-D2AF-ED25-81CE-48AEC99A8337 (p2, c1, k60, u'safehmoe').
+1743868110: Client auto-1A279A65-D2AF-ED25-81CE-48AEC99A8337 disconnected.
+1743868111: New connection from 172.18.0.1:35160 on port 1883.
+1743868111: New client connected from 172.18.0.1:35160 as auto-F8BC66B3-0294-7DB7-0A9D-A92E816760E3 (p2, c1, k60, u'safehmoe').
+1743868111: Client auto-F8BC66B3-0294-7DB7-0A9D-A92E816760E3 disconnected.
+1743868111: New connection from 172.18.0.1:35162 on port 1883.
+1743868111: New client connected from 172.18.0.1:35162 as auto-CD316BE0-5542-6755-8304-B80A4A082C05 (p2, c1, k60, u'safehmoe').
+1743868111: Client auto-CD316BE0-5542-6755-8304-B80A4A082C05 disconnected.
+1743868111: New connection from 172.18.0.1:35164 on port 1883.
+1743868111: New client connected from 172.18.0.1:35164 as auto-0D138435-53EF-200C-FE88-74E6A628F9E4 (p2, c1, k60, u'safehmoe').
+1743868111: Client auto-0D138435-53EF-200C-FE88-74E6A628F9E4 disconnected.
+1743868981: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743870782: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743872583: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743874318: New connection from 192.168.1.28:46682 on port 1883.
+1743874318: New client connected from 192.168.1.28:46682 as auto-88AC50C3-918A-7400-6063-34B26F008C88 (p2, c1, k60, u'safehmoe').
+1743874318: Client auto-88AC50C3-918A-7400-6063-34B26F008C88 disconnected.
+1743874320: New connection from 192.168.1.28:46684 on port 1883.
+1743874320: New client connected from 192.168.1.28:46684 as auto-614979D3-A3C5-A163-695A-4D1939D25356 (p2, c1, k60, u'safehmoe').
+1743874320: Client auto-614979D3-A3C5-A163-695A-4D1939D25356 disconnected.
+1743874320: New connection from 192.168.1.28:46696 on port 1883.
+1743874320: New client connected from 192.168.1.28:46696 as auto-254C2446-918A-8192-3280-2B0E7D1FB577 (p2, c1, k60, u'safehmoe').
+1743874320: Client auto-254C2446-918A-8192-3280-2B0E7D1FB577 disconnected.
+1743874321: New connection from 192.168.1.28:46712 on port 1883.
+1743874321: New client connected from 192.168.1.28:46712 as auto-1F8430B5-3F26-0D2D-8185-621A0B59C953 (p2, c1, k60, u'safehmoe').
+1743874321: Client auto-1F8430B5-3F26-0D2D-8185-621A0B59C953 disconnected.
+1743874321: New connection from 192.168.1.28:46716 on port 1883.
+1743874321: New client connected from 192.168.1.28:46716 as auto-05579D3B-AF64-61E3-D183-A9C9B1418619 (p2, c1, k60, u'safehmoe').
+1743874321: Client auto-05579D3B-AF64-61E3-D183-A9C9B1418619 disconnected.
+1743874321: New connection from 192.168.1.28:46722 on port 1883.
+1743874321: New client connected from 192.168.1.28:46722 as auto-7BB72855-067B-32DB-9ABB-485F45A8A8B5 (p2, c1, k60, u'safehmoe').
+1743874321: Client auto-7BB72855-067B-32DB-9ABB-485F45A8A8B5 disconnected.
+1743874321: New connection from 192.168.1.28:46724 on port 1883.
+1743874321: New client connected from 192.168.1.28:46724 as auto-F6F32DBF-3D41-0C90-8757-F9E90FCE4D9C (p2, c1, k60, u'safehmoe').
+1743874321: Client auto-F6F32DBF-3D41-0C90-8757-F9E90FCE4D9C disconnected.
+1743874384: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743874785: New connection from 172.18.0.1:46144 on port 1883.
+1743874785: New client connected from 172.18.0.1:46144 as mqtt-explorer-e79b0faf (p2, c1, k60, u'safehmoe').
+1743875035: New connection from 192.168.1.29:40578 on port 1883.
+1743875035: New client connected from 192.168.1.29:40578 as auto-51999DC5-76A4-EC58-A3EB-ECBCF1577E25 (p2, c1, k60, u'safehmoe').
+1743875035: Client auto-51999DC5-76A4-EC58-A3EB-ECBCF1577E25 disconnected.
+1743875037: New connection from 192.168.1.29:48070 on port 1883.
+1743875037: New client connected from 192.168.1.29:48070 as auto-5622B7D7-4048-AE92-823D-C762227F27EA (p2, c1, k60, u'safehmoe').
+1743875037: Client auto-5622B7D7-4048-AE92-823D-C762227F27EA disconnected.
+1743875037: New connection from 192.168.1.29:48076 on port 1883.
+1743875037: New client connected from 192.168.1.29:48076 as auto-24C34386-60B1-43D5-E29D-15489369E0A1 (p2, c1, k60, u'safehmoe').
+1743875037: Client auto-24C34386-60B1-43D5-E29D-15489369E0A1 disconnected.
+1743875037: New connection from 192.168.1.29:48078 on port 1883.
+1743875037: New client connected from 192.168.1.29:48078 as auto-D98637A6-84FA-63A8-F6D1-895791DA96ED (p2, c1, k60, u'safehmoe').
+1743875037: Client auto-D98637A6-84FA-63A8-F6D1-895791DA96ED disconnected.
+1743875038: New connection from 192.168.1.29:48080 on port 1883.
+1743875038: New client connected from 192.168.1.29:48080 as auto-BAAF3B06-7131-E907-55E5-8908701EFBE3 (p2, c1, k60, u'safehmoe').
+1743875038: Client auto-BAAF3B06-7131-E907-55E5-8908701EFBE3 disconnected.
+1743875038: New connection from 192.168.1.29:48092 on port 1883.
+1743875038: New client connected from 192.168.1.29:48092 as auto-C42FB08D-8BD9-9841-65AC-9F4FDEC195A9 (p2, c1, k60, u'safehmoe').
+1743875038: Client auto-C42FB08D-8BD9-9841-65AC-9F4FDEC195A9 disconnected.
+1743876103: New connection from 192.168.1.27:51456 on port 1883.
+1743876103: Client ESP32 disconnected, not authorised.
+1743876108: New connection from 192.168.1.27:51457 on port 1883.
+1743876108: Client ESP32 disconnected, not authorised.
+1743876113: New connection from 192.168.1.27:51458 on port 1883.
+1743876113: Client ESP32 disconnected, not authorised.
+1743876119: New connection from 192.168.1.27:51459 on port 1883.
+1743876119: Client ESP32 disconnected, not authorised.
+1743876124: New connection from 192.168.1.27:51460 on port 1883.
+1743876124: Client ESP32 disconnected, not authorised.
+1743876129: New connection from 192.168.1.27:51461 on port 1883.
+1743876129: Client ESP32 disconnected, not authorised.
+1743876134: New connection from 192.168.1.27:51462 on port 1883.
+1743876134: Client ESP32 disconnected, not authorised.
+1743876139: New connection from 192.168.1.27:51463 on port 1883.
+1743876139: Client ESP32 disconnected, not authorised.
+1743876144: New connection from 192.168.1.27:51464 on port 1883.
+1743876144: Client ESP32 disconnected, not authorised.
+1743876149: New connection from 192.168.1.27:51465 on port 1883.
+1743876149: Client ESP32 disconnected, not authorised.
+1743876155: New connection from 192.168.1.27:51466 on port 1883.
+1743876155: Client ESP32 disconnected, not authorised.
+1743876160: New connection from 192.168.1.27:51467 on port 1883.
+1743876160: Client ESP32 disconnected, not authorised.
+1743876165: New connection from 192.168.1.27:51468 on port 1883.
+1743876165: Client ESP32 disconnected, not authorised.
+1743876170: New connection from 192.168.1.27:51469 on port 1883.
+1743876170: Client ESP32 disconnected, not authorised.
+1743876175: New connection from 192.168.1.27:51470 on port 1883.
+1743876175: Client ESP32 disconnected, not authorised.
+1743876185: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743876189: New connection from 192.168.1.27:62000 on port 1883.
+1743876189: Client ESP32-4C11AE6667B4 disconnected, not authorised.
+1743876194: New connection from 192.168.1.27:62001 on port 1883.
+1743876194: Client ESP32-4C11AE6667B4 disconnected, not authorised.
+1743876199: New connection from 192.168.1.27:62002 on port 1883.
+1743876199: Client ESP32-4C11AE6667B4 disconnected, not authorised.
+1743876204: New connection from 192.168.1.27:62003 on port 1883.
+1743876204: Client ESP32-4C11AE6667B4 disconnected, not authorised.
+1743876209: New connection from 192.168.1.27:62004 on port 1883.
+1743876209: Client ESP32-4C11AE6667B4 disconnected, not authorised.
+1743876214: New connection from 192.168.1.27:62005 on port 1883.
+1743876214: Client ESP32-4C11AE6667B4 disconnected, not authorised.
+1743876219: New connection from 192.168.1.27:62006 on port 1883.
+1743876219: Client ESP32-4C11AE6667B4 disconnected, not authorised.
+1743876224: New connection from 192.168.1.27:62007 on port 1883.
+1743876224: Client ESP32-4C11AE6667B4 disconnected, not authorised.
+1743876229: New connection from 192.168.1.27:62008 on port 1883.
+1743876229: Client ESP32-4C11AE6667B4 disconnected, not authorised.
+1743876235: New connection from 192.168.1.27:62009 on port 1883.
+1743876235: Client ESP32-4C11AE6667B4 disconnected, not authorised.
+1743876240: New connection from 192.168.1.27:62010 on port 1883.
+1743876240: Client ESP32-4C11AE6667B4 disconnected, not authorised.
+1743876245: New connection from 192.168.1.27:62011 on port 1883.
+1743876245: Client ESP32-4C11AE6667B4 disconnected, not authorised.
+1743876250: New connection from 192.168.1.27:62012 on port 1883.
+1743876250: Client ESP32-4C11AE6667B4 disconnected, not authorised.
+1743876255: New connection from 192.168.1.27:62013 on port 1883.
+1743876255: Client ESP32-4C11AE6667B4 disconnected, not authorised.
+1743876260: New connection from 192.168.1.27:62014 on port 1883.
+1743876260: Client ESP32-4C11AE6667B4 disconnected, not authorised.
+1743876265: New connection from 192.168.1.27:62015 on port 1883.
+1743876265: Client ESP32-4C11AE6667B4 disconnected, not authorised.
+1743876270: New connection from 192.168.1.27:62016 on port 1883.
+1743876270: Client ESP32-4C11AE6667B4 disconnected, not authorised.
+1743876275: New connection from 192.168.1.27:62017 on port 1883.
+1743876275: Client ESP32-4C11AE6667B4 disconnected, not authorised.
+1743876292: New connection from 192.168.1.27:58006 on port 1883.
+1743876292: New client connected from 192.168.1.27:58006 as ESP32-4C11AE6667B4 (p2, c1, k15, u'safehmoe').
+1743877986: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743879164: Client mqtt-explorer-e79b0faf disconnected.
+1743879787: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743881588: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743883389: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743885190: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743885938: Client JavaSubscriber closed its connection.
+1743885948: New connection from 172.18.0.1:59066 on port 1883.
+1743885948: New client connected from 172.18.0.1:59066 as JavaSubscriber (p2, c1, k60, u'safehmoe').
+1743886156: Client ESP32-4C11AE6667B4 has exceeded timeout, disconnecting.
+1743886159: New connection from 192.168.1.27:54252 on port 1883.
+1743886159: New client connected from 192.168.1.27:54252 as ESP32-4C11AE6667B4 (p2, c1, k15, u'safehmoe').
+1743886991: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743888792: Saving in-memory database to /mosquitto/data//mosquitto.db.

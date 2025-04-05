@@ -1,0 +1,14 @@
+apiVersion: 1
+
+datasources:
+  - name: InfluxDB
+    type: influxdb
+    access: proxy
+    url: http://172.18.0.1:8086
+    jsonData:
+      version: Flux
+      organization: safehome
+      defaultBucket: safehome-bucket
+      tlsSkipVerify: true
+    secureJsonData:
+      token: token-safeHome#  # Mesmo token do InfluxDB
